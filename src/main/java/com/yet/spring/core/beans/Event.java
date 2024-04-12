@@ -16,7 +16,7 @@ public class Event {
     }
 
     public static void initAutoId(int id) {
-        AUTO_ID.set(id);
+            AUTO_ID.set(id);
     }
 
     private int id;
